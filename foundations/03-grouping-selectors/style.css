@@ -1,4 +1,8 @@
-click1 {
+.click1 {
     background-color: black;
     color: white;
+}
+
+.click2 {
+    background-color: yellow;
 }

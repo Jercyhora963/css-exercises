@@ -5,7 +5,6 @@ body{
 .para,
 .small-para {
   color: hsl(0, 0%, 0%);
-  font-weight: 800;
 }
 
 .small-para {

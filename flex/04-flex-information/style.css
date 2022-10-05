@@ -36,8 +36,10 @@ img {
   display: flex;
   justify-content: space-between;
   gap: 52px;
+  flex-wrap: wrap;
 }
 
 .plants {
   width: 200px;
+  display: flex;
 }

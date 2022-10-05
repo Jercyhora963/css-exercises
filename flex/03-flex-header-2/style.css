@@ -46,7 +46,9 @@ a {
 }
 
 ul {
+  font-weight: 700;
   display: flex;
+  gap: 7px;
   list-style-type: none;
 }
 

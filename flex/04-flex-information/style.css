@@ -37,3 +37,7 @@ img {
   justify-content: space-between;
   gap: 52px;
 }
+
+.plants {
+  width: 200px;
+}
